@@ -1,0 +1,16 @@
+experiment_type,parameter,value,best_val_accuracy,history_path
+learning_rate,lr,1e-05,0.7171052694320679,results/histories/history_lr_1e-05.pkl
+learning_rate,lr,5e-05,0.8782894611358643,results/histories/history_lr_5e-05.pkl
+learning_rate,lr,0.0001,0.8832237124443054,results/histories/history_lr_0.0001.pkl
+learning_rate,lr,0.0005,0.9194079041481018,results/histories/history_lr_0.0005.pkl
+learning_rate,lr,0.001,0.9226973652839661,results/histories/history_lr_0.001.pkl
+learning_rate,lr,0.005,0.9210526347160339,results/histories/history_lr_0.005.pkl
+optimizer,opt,Adam,0.9276315569877625,results/histories/history_opt_Adam.pkl
+optimizer,opt,RMSprop,0.9177631735801697,results/histories/history_opt_RMSprop.pkl
+optimizer,opt,SGD,0.8799341917037964,results/histories/history_opt_SGD.pkl
+optimizer,opt,Adagrad,0.8355262875556946,results/histories/history_opt_Adagrad.pkl
+batch_size,bs,4,0.9183006286621094,results/histories/history_bs_4.pkl
+batch_size,bs,8,0.9194079041481018,results/histories/history_bs_8.pkl
+batch_size,bs,10,0.9262295365333557,results/histories/history_bs_10.pkl
+batch_size,bs,16,0.9226973652839661,results/histories/history_bs_16.pkl
+batch_size,bs,20,0.925000011920929,results/histories/history_bs_20.pkl
